@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viruskwid
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ust 
+- 💞️ I’m looking to collaborate on ust globals
 - 📫 How to reach me instagram @virus-kwid
 
 <!---
